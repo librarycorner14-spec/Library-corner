@@ -1,1 +1,476 @@
-
+[
+  {
+    "title": "Adventure_1_The_Island_of_Hidden_Maps",
+    "author": "Unknown",
+    "category": "Story Books",
+    "file": "books/Adventure_1_The_Island_of_Hidden_Maps.pdf"
+  },
+  {
+    "title": "Adventure_2_Journey_Through_the_Crystal_Cave",
+    "author": "Unknown",
+    "category": "Story Books",
+    "file": "books/Adventure_2_Journey_Through_the_Crystal_Cave.pdf"
+  },
+  {
+    "title": "Adventure_3_The_Desert_Compass",
+    "author": "Unknown",
+    "category": "Story Books",
+    "file": "books/Adventure_3_The_Desert_Compass.pdf"
+  },
+  {
+    "title": "Adventure_4_The_Lost_City_Trail",
+    "author": "Unknown",
+    "category": "AI",
+    "file": "books/Adventure_4_The_Lost_City_Trail.pdf"
+  },
+  {
+    "title": "Adventure_5_Across_the_Stormy_Sea",
+    "author": "Unknown",
+    "category": "Story Books",
+    "file": "books/Adventure_5_Across_the_Stormy_Sea.pdf"
+  },
+  {
+    "title": "Adventure_6_The_Mountain_Mystery",
+    "author": "Unknown",
+    "category": "AI",
+    "file": "books/Adventure_6_The_Mountain_Mystery.pdf"
+  },
+  {
+    "title": "Adventure_7_The_Jungle_Signal",
+    "author": "Unknown",
+    "category": "Story Books",
+    "file": "books/Adventure_7_The_Jungle_Signal.pdf"
+  },
+  {
+    "title": "Adventure_8_The_Frozen_Expedition",
+    "author": "Unknown",
+    "category": "Story Books",
+    "file": "books/Adventure_8_The_Frozen_Expedition.pdf"
+  },
+  {
+    "title": "Adventure_9_The_River_of_Secrets",
+    "author": "Unknown",
+    "category": "Story Books",
+    "file": "books/Adventure_9_The_River_of_Secrets.pdf"
+  },
+  {
+    "title": "Adventure_10_The_Midnight_Explorer",
+    "author": "Unknown",
+    "category": "Story Books",
+    "file": "books/Adventure_10_The_Midnight_Explorer.pdf"
+  },
+  {
+    "title": "Kids_1_The_Brave_Little_Turtle",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_1_The_Brave_Little_Turtle.pdf"
+  },
+  {
+    "title": "Kids_2_Milo_and_the_Magic_Pencil",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_2_Milo_and_the_Magic_Pencil.pdf"
+  },
+  {
+    "title": "Kids_3_The_Talking_Tree",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_3_The_Talking_Tree.pdf"
+  },
+  {
+    "title": "Kids_4_Luna_and_the_Lost_Kitten",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_4_Luna_and_the_Lost_Kitten.pdf"
+  },
+  {
+    "title": "Kids_5_The_Rainbow_Garden",
+    "author": "Unknown",
+    "category": "AI",
+    "file": "books/Kids_5_The_Rainbow_Garden.pdf"
+  },
+  {
+    "title": "Kids_6_Sam's_Flying_Book",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_6_Sam's_Flying_Book.pdf"
+  },
+  {
+    "title": "Kids_7_The_Friendly_Robot",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_7_The_Friendly_Robot.pdf"
+  },
+  {
+    "title": "Kids_8_Nina_and_the_Star_Jar",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_8_Nina_and_the_Star_Jar.pdf"
+  },
+  {
+    "title": "Kids_9_The_Kind_Cloud",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_9_The_Kind_Cloud.pdf"
+  },
+  {
+    "title": "Kids_10_The_Secret_Treehouse",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_10_The_Secret_Treehouse.pdf"
+  },
+  {
+    "title": "Kids_Book_001_The_Clockwork_Sparrow",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_001_The_Clockwork_Sparrow.pdf"
+  },
+  {
+    "title": "Kids_Book_002_Lila_and_the_Moon_Garden",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_002_Lila_and_the_Moon_Garden.pdf"
+  },
+  {
+    "title": "Kids_Book_003_The_Day_the_River_Sang",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_003_The_Day_the_River_Sang.pdf"
+  },
+  {
+    "title": "Kids_Book_004_Tommy_and_the_Paper_Rocket",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_004_Tommy_and_the_Paper_Rocket.pdf"
+  },
+  {
+    "title": "Kids_Book_005_The_Secret_of_Pebble_Beach",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_005_The_Secret_of_Pebble_Beach.pdf"
+  },
+  {
+    "title": "Kids_Book_006_The_Little_Lighthouse_Keeper",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_006_The_Little_Lighthouse_Keeper.pdf"
+  },
+  {
+    "title": "Kids_Book_007_Maya_and_the_Cloud_Painter",
+    "author": "Unknown",
+    "category": "AI",
+    "file": "books/Kids_Book_007_Maya_and_the_Cloud_Painter.pdf"
+  },
+  {
+    "title": "Kids_Book_008_The_Forest_of_Friendly_Shadows",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_008_The_Forest_of_Friendly_Shadows.pdf"
+  },
+  {
+    "title": "Kids_Book_009_Omar_and_the_Pocket_Compass",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_009_Omar_and_the_Pocket_Compass.pdf"
+  },
+  {
+    "title": "Kids_Book_010_The_Blue_Kite_Adventure",
+    "author": "Unknown",
+    "category": "Story Books",
+    "file": "books/Kids_Book_010_The_Blue_Kite_Adventure.pdf"
+  },
+  {
+    "title": "Kids_Book_011_The_Library_Under_the_Stairs",
+    "author": "Unknown",
+    "category": "AI",
+    "file": "books/Kids_Book_011_The_Library_Under_the_Stairs.pdf"
+  },
+  {
+    "title": "Kids_Book_012_Nora_and_the_Whispering_Wind",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_012_Nora_and_the_Whispering_Wind.pdf"
+  },
+  {
+    "title": "Kids_Book_013_The_Train_to_Sunflower_Valley",
+    "author": "Unknown",
+    "category": "AI",
+    "file": "books/Kids_Book_013_The_Train_to_Sunflower_Valley.pdf"
+  },
+  {
+    "title": "Kids_Book_014_Arjun_and_the_Hidden_Door",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_014_Arjun_and_the_Hidden_Door.pdf"
+  },
+  {
+    "title": "Kids_Book_015_The_Day_Colors_Went_Missing",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_015_The_Day_Colors_Went_Missing.pdf"
+  },
+  {
+    "title": "Kids_Book_016_The_Mountain_of_Echoes",
+    "author": "Unknown",
+    "category": "AI",
+    "file": "books/Kids_Book_016_The_Mountain_of_Echoes.pdf"
+  },
+  {
+    "title": "Kids_Book_017_Samira_and_the_Golden_Feather",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_017_Samira_and_the_Golden_Feather.pdf"
+  },
+  {
+    "title": "Kids_Book_018_The_Tiny_Island_Rescue",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_018_The_Tiny_Island_Rescue.pdf"
+  },
+  {
+    "title": "Kids_Book_019_The_Garden_That_Grew_Overnight",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_019_The_Garden_That_Grew_Overnight.pdf"
+  },
+  {
+    "title": "Kids_Book_020_The_Lantern_Festival_Mystery",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_020_The_Lantern_Festival_Mystery.pdf"
+  },
+  {
+    "title": "Kids_Book_021_Ayaan_and_the_Silver_Acorn",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_021_Ayaan_and_the_Silver_Acorn.pdf"
+  },
+  {
+    "title": "Kids_Book_022_The_Bell_in_the_Bamboo_Grove",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_022_The_Bell_in_the_Bamboo_Grove.pdf"
+  },
+  {
+    "title": "Kids_Book_023_Zoyas_Window_of_Wonders",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_023_Zoyas_Window_of_Wonders.pdf"
+  },
+  {
+    "title": "Kids_Book_024_The_Fox_Who_Borrowed_Sunlight",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_024_The_Fox_Who_Borrowed_Sunlight.pdf"
+  },
+  {
+    "title": "Kids_Book_025_Rian_and_the_Floating_Market",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_025_Rian_and_the_Floating_Market.pdf"
+  },
+  {
+    "title": "Kids_Book_026_The_Teacup_That_Held_a_Rainbow",
+    "author": "Unknown",
+    "category": "AI",
+    "file": "books/Kids_Book_026_The_Teacup_That_Held_a_Rainbow.pdf"
+  },
+  {
+    "title": "Kids_Book_027_Mina_and_the_Marble_Path",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_027_Mina_and_the_Marble_Path.pdf"
+  },
+  {
+    "title": "Kids_Book_030_The_Day_the_Lake_Woke_Up",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_030_The_Day_the_Lake_Woke_Up.pdf"
+  },
+  {
+    "title": "Kids_Book_031_The_Baker_of_Button_Street",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_031_The_Baker_of_Button_Street.pdf"
+  },
+  {
+    "title": "Kids_Book_032_Tara_and_the_Seventh_Lantern",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_032_Tara_and_the_Seventh_Lantern.pdf"
+  },
+  {
+    "title": "Kids_Book_033_The_Feather_Map",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_033_The_Feather_Map.pdf"
+  },
+  {
+    "title": "Kids_Book_034_Ishan_and_the_Cinnamon_Boat",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_034_Ishan_and_the_Cinnamon_Boat.pdf"
+  },
+  {
+    "title": "Kids_Book_035_The_Secret_in_the_Sand_Clock",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_035_The_Secret_in_the_Sand_Clock.pdf"
+  },
+  {
+    "title": "Kids_Book_036_Pihu_and_the_Painted_Owl",
+    "author": "Unknown",
+    "category": "AI",
+    "file": "books/Kids_Book_036_Pihu_and_the_Painted_Owl.pdf"
+  },
+  {
+    "title": "Kids_Book_037_The_Orchestra_in_the_Orchard",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_037_The_Orchestra_in_the_Orchard.pdf"
+  },
+  {
+    "title": "Kids_Book_038_Yusuf_and_the_Golden_Thread",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_038_Yusuf_and_the_Golden_Thread.pdf"
+  },
+  {
+    "title": "Kids_Book_039_The_House_with_a_Blue_Roof",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_039_The_House_with_a_Blue_Roof.pdf"
+  },
+  {
+    "title": "Kids_Book_040_Anaya_and_the_Echo_Basket",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_040_Anaya_and_the_Echo_Basket.pdf"
+  },
+  {
+    "title": "Kids_Book_041_The_Moon_Kite_Festival",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_041_The_Moon_Kite_Festival.pdf"
+  },
+  {
+    "title": "Kids_Book_042_Dev_and_the_Hidden_Bell",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_042_Dev_and_the_Hidden_Bell.pdf"
+  },
+  {
+    "title": "Kids_Book_043_The_Parrot_of_Paper_Lane",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_043_The_Parrot_of_Paper_Lane.pdf"
+  },
+  {
+    "title": "Kids_Book_044_The_Wishing_Well_of_Willow_Field",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_044_The_Wishing_Well_of_Willow_Field.pdf"
+  },
+  {
+    "title": "Kids_Book_045_Sara_and_the_Snowless_Winter",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_045_Sara_and_the_Snowless_Winter.pdf"
+  },
+  {
+    "title": "Kids_Book_046_The_Pocket_Garden",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_046_The_Pocket_Garden.pdf"
+  },
+  {
+    "title": "Kids_Book_047_Veer_and_the_River_Lantern",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_047_Veer_and_the_River_Lantern.pdf"
+  },
+  {
+    "title": "Kids_Book_048_The_Postman_of_Misty_Hill",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_048_The_Postman_of_Misty_Hill.pdf"
+  },
+  {
+    "title": "Kids_Book_049_Nila_and_the_Amber_Key",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_049_Nila_and_the_Amber_Key.pdf"
+  },
+  {
+    "title": "Kids_Book_050_The_Day_the_Wind_Learned_Music",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_050_The_Day_the_Wind_Learned_Music.pdf"
+  },
+  {
+    "title": "Kids_Book_051_Rehan_and_the_Pebble_Crown",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_051_Rehan_and_the_Pebble_Crown.pdf"
+  },
+  {
+    "title": "Kids_Book_052_The_Mirror_in_Mango_Grove",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_052_The_Mirror_in_Mango_Grove.pdf"
+  },
+  {
+    "title": "Kids_Book_053_Asha_and_the_Sleepy_Volcano",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_053_Asha_and_the_Sleepy_Volcano.pdf"
+  },
+  {
+    "title": "Kids_Book_054_The_Bookshop_by_the_Banyan_Tree",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_054_The_Bookshop_by_the_Banyan_Tree.pdf"
+  },
+  {
+    "title": "Kids_Book_055_Faris_and_the_Lantern_Fish",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_055_Faris_and_the_Lantern_Fish.pdf"
+  },
+  {
+    "title": "Kids_Book_056_The_Ladder_to_Cloud_Corner",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_056_The_Ladder_to_Cloud_Corner.pdf"
+  },
+  {
+    "title": "Kids_Book_057_Inaaya_and_the_Jigsaw_Moon",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_057_Inaaya_and_the_Jigsaw_Moon.pdf"
+  },
+  {
+    "title": "Kids_Book_058_The_Puppet_Who_Told_the_Truth",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_058_The_Puppet_Who_Told_the_Truth.pdf"
+  },
+  {
+    "title": "Kids_Book_059_Rohit_and_the_Whisper_Jar",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_059_Rohit_and_the_Whisper_Jar.pdf"
+  },
+  {
+    "title": "Kids_Book_060_The_Last_Starflower",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/Kids_Book_060_The_Last_Starflower.pdf"
+  },
+  {
+    "title": "The_Lantern_in_the_Glistening_Meadow",
+    "author": "Unknown",
+    "category": "Science",
+    "file": "books/The_Lantern_in_the_Glistening_Meadow.pdf"
+  }
+]
