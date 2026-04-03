@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>LibraryCorner Library</title>
+  <link rel="icon" type="image/png" href="favicon.png">
+
+  <style>
+    body {
+      font-family: Arial;
+      background: #f2f2f2;
+      text-align: center;
+      margin: 0;
+    }
+
+    header {
+      background: #222;
+      color: white;
+      padding: 20px;
+      font-size: 30px;
+    }
+
+    .book {
+      background: white;
+      margin: 20px auto;
+      padding: 20px;
+      width: 60%;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+
+    button {
+      padding: 10px 15px;
+      margin: 5px;
+      background: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #0056b3;
+    }
+
+    footer {
+      margin-top: 40px;
+      background: #222;
+      color: white;
+      padding: 20px;
+    }
+
+    .pdf-viewer {
+      width: 100%;
+      height: 600px;
+      margin-top: 20px;
+      border: 1px solid #ccc;
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+📚 BooksCorner Library
+</header>
+
+<h2>Categories</h2>
+
+<button onclick="filterBooks('AI')">AI</button>
+<button onclick="filterBooks('Science')">Science</button>
+<button onclick="filterBooks('Math')">Math</button>
+<button onclick="filterBooks('Social')">Social</button>
+<button onclick="filterBooks('Story Books')">Story Books</button>
+<button onclick="filterBooks('Programming')">Programming</button>
+<button onclick="filterBooks('Electronics')">Electronics</button>
+<button onclick="filterBooks('All')">All</button>
+
+<h2>Available Books</h2>
+
+<div id="library"></div>
+
+<iframe id="pdfViewer" class="pdf-viewer"></iframe>
+
+<footer>
+If help needed contact:<br>
+<b>librarycorner14@gmail.com</b>
+</footer>
+
+<script>
+
+let allBooks = [];
+
+// Fetch books from JSON
+fetch("books.json")
+.then(response => response.json())
+.then(data => {
+  allBooks = data;
+  displayBooks(allBooks);
+})
+.catch(error => {
+  console.error("Error loading books:", error);
+});
+
+function displayBooks(books) {
+
+  let area = document.getElementById("library");
+  area.innerHTML = "";
+
+  books.forEach(book => {
+
+    area.innerHTML += `
+      <div class='book'>
+        <h3>${book.title}</h3>
+        <p><b>Author:</b> ${book.author}</p>
+        <p><b>Category:</b> ${book.category}</p>
+
+        <button onclick="readOnline('${book.file}')">Read Online</button>
+
+        <a href="${book.file}" download>
+          <button>Download</button>
+        </a>
+      </div>
+    `;
+
+  });
+}
+
+function filterBooks(category) {
+
+  if (category === "All") {
+    displayBooks(allBooks);
+    return;
+  }
+
+  let filtered = allBooks.filter(book => book.category === category);
+  displayBooks(filtered);
+}
+
+function readOnline(filePath) {
+
+  fetch(filePath, { method: 'HEAD' })
+  .then(response => {
+
+    if (response.ok) {
+
+      let viewer = document.getElementById("pdfViewer");
+
+      viewer.src = filePath;
+      viewer.style.display = "block";
+
+      viewer.scrollIntoView({ behavior: 'smooth' });
+
+    } else {
+
+      alert("❌ File not found: " + filePath);
+
+    }
+
+  })
+  .catch(() => {
+
+    alert("❌ Could not load the file: " + filePath);
+
+  });
+}
+
+</script>
+
+</body>
+</html>
